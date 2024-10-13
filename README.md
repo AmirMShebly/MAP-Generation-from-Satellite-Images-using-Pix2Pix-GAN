@@ -31,14 +31,7 @@ Satellite Image                     |  Generated Map
 
 Satellite Image                     |  Generated Map
 :----------------------------------:|:-------------------------:
- | 
-
-
-
-
-Satellite Image                     |  Generated Map
-:----------------------------------:|:-------------------------:
- | 
+ ![satellite_image_2](https://github.com/user-attachments/assets/41eae2cb-dea0-4ead-94c3-161b37b16657) | ![generated_map_2](https://github.com/user-attachments/assets/dad572fd-f186-4e97-a793-c9180e79f295)
 
 
 
@@ -46,7 +39,8 @@ Satellite Image                     |  Generated Map
 
 Satellite Image                     |  Generated Map
 :----------------------------------:|:-------------------------:
- | 
+ ![satellite_image_3](https://github.com/user-attachments/assets/a7d561cb-aafa-49a8-ba53-5f2749b79234) | ![generated_map_3](https://github.com/user-attachments/assets/41ee4971-efe6-422f-a1ae-1743f36b4719)
+ 
 
 
 
@@ -54,12 +48,31 @@ Satellite Image                     |  Generated Map
 
 Satellite Image                     |  Generated Map
 :----------------------------------:|:-------------------------:
- | 
+ ![satellite_image_4](https://github.com/user-attachments/assets/3de53542-7632-48ef-aecb-9f1a1dcfb43f) | ![generated_map_4](https://github.com/user-attachments/assets/97292c0a-f07d-43a0-8dbd-774f49bdb0f2)
+
+
 
 
 
 
 Satellite Image                     |  Generated Map
 :----------------------------------:|:-------------------------:
- | 
+ ![satellite_image_5](https://github.com/user-attachments/assets/8f0a6543-bd9f-4a9e-b106-a645bbdfab70) | ![generated_map_5](https://github.com/user-attachments/assets/0768f581-9961-4847-a136-19484b658c95)
+ 
+
+
+
+
+Satellite Image                     |  Generated Map
+:----------------------------------:|:-------------------------:
+ ![satellite_image_6](https://github.com/user-attachments/assets/0e04d0fb-47cf-4540-9639-a819be8becd7) | ![generated_map_6](https://github.com/user-attachments/assets/2a7aef97-810f-4e3a-90c9-fda5e85cf34f)
+ 
+
+
+
+
+Satellite Image                     |  Generated Map
+:----------------------------------:|:-------------------------:
+ ![satellite_image_7](https://github.com/user-attachments/assets/e2e4b192-cce4-4783-93e0-592d5b8cee94) | ![generated_map_7](https://github.com/user-attachments/assets/9dde1f0a-9a3e-43c9-bca7-1f95a3265c45)
+
 
